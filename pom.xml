@@ -13,6 +13,7 @@
     <modules>
     	<module>spring-xxx</module>
         <module>spring-mvc</module>
+        <module>spring-mvc-no-xml</module>
     </modules>
 
     <properties>

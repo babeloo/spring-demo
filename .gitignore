@@ -135,3 +135,5 @@ spring-mvc/target/
 spring-xxx/target/
 
 spring-xxx/\.classpath
+
+\.classpath
