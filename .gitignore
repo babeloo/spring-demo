@@ -137,3 +137,7 @@ spring-xxx/target/
 spring-xxx/\.classpath
 
 \.classpath
+/.idea/
+/.settings/
+/.classpath
+/.project

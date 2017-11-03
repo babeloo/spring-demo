@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>HelloWorld页面 - www.yiibai.com</title>
+<title>Hello World from Spring</title>
 </head>
 <body>
 	<h2>Greeting : ${greeting}</h2>
